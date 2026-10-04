@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "biologi",
+    "stage": "sma",
+    "kelas": 12,
+    "chapter": 1,
+    "soal": "Pada persilangan monohibrid dominan penuh (Bb × Bb), berapakah persentase keturunan yang berfenotipe dominan?",
+    "pilihan": [
+      "25%",
+      "50%",
+      "75%",
+      "100%",
+      "Semua salah"
+    ],
+    "jawaban": "75%",
+    "pembahasan": "Persilangan Bb × Bb menghasilkan rasio genotipe 1 BB : 2 Bb : 1 bb. Keturunan berfenotipe dominan (BB dan Bb) berjumlah 3 dari 4 bagian atau 75%."
+  },
+  {
+    "subject": "fisika",
+    "stage": "sma",
+    "kelas": 10,
+    "chapter": 2,
+    "soal": "Sebuah balok bermassa 5 kg ditarik dengan gaya mendatar sebesar 30 N di atas permukaan lantai licin tanpa gesekan. Berapakah percepatan yang dialami balok tersebut?",
+    "pilihan": [
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "10 m/s²"
+    ],
+    "jawaban": "6 m/s²",
+    "pembahasan": "Berdasarkan Hukum II Newton: a = F / m = 30 N / 5 kg = 6 m/s²."
+  },
+  {
+    "subject": "kimia",
+    "stage": "sma",
+    "kelas": 11,
+    "chapter": 3,
+    "soal": "Suatu larutan asam kuat memiliki konsentrasi ion hidrogen [H⁺] sebesar 1 × 10⁻³ M. Berapakah nilai pH dari larutan tersebut?",
+    "pilihan": [
+      "pH = 1",
+      "pH = 2",
+      "pH = 3",
+      "pH = 4",
+      "pH = 11"
+    ],
+    "jawaban": "pH = 3",
+    "pembahasan": "pH dihitung dengan rumus: pH = -log[H⁺] = -log(1 × 10⁻³) = 3."
+  },
+  {
+    "subject": "sejarah",
+    "stage": "sma",
+    "kelas": 10,
+    "chapter": 2,
+    "soal": "Prasasti Yupa peninggalan Kerajaan Kutai di Kalimantan Timur ditulis menggunakan aksara Pallawa dan bahasa...",
+    "pilihan": [
+      "Sanskerta",
+      "Melayu Kuno",
+      "Jawa Kuno",
+      "Kawi",
+      "Arab Melayu"
+    ],
+    "jawaban": "Sanskerta",
+    "pembahasan": "Prasasti Yupa merupakan bukti tertulis tertua di Indonesia yang menggunakan aksara Pallawa dari India Selatan dan berbahasa Sanskerta."
+  },
+  {
+    "subject": "bahasa_indonesia",
+    "stage": "sma",
+    "kelas": 12,
+    "chapter": 1,
+    "soal": "Kalimat berikut yang merupakan FAKTA dalam teks berita atau editorial adalah...",
+    "pilihan": [
+      "Kementerian Lingkungan Hidup mencatat timbulan sampah nasional mencapai 68,5 juta ton pada tahun 2022.",
+      "Pemerintah seharusnya memberikan sanksi yang lebih berat bagi industri pencemar sungai.",
+      "Masyarakat kota besar dinilai masih kurang peduli terhadap kebersihan lingkungan sekitar.",
+      "Pengelolaan sampah plastik diperkirakan akan menjadi tantangan terberat dekade mendatang.",
+      "Banyak pihak merasa pesimis target pengurangan emisi karbon dapat tercapai tepat waktu."
+    ],
+    "jawaban": "Kementerian Lingkungan Hidup mencatat timbulan sampah nasional mencapai 68,5 juta ton pada tahun 2022.",
+    "pembahasan": "Fakta adalah hal atau peristiwa yang benar-benar terjadi dan dapat dibuktikan dengan data empiris serta sumber resmi."
+  },
+  {
+    "subject": "matematika_umum",
+    "stage": "sma",
+    "kelas": 10,
+    "chapter": 1,
+    "soal": "Bentuk sederhana dari operasi eksponen (2³ × 2⁴) : 2² adalah...",
+    "pilihan": [
+      "2³",
+      "2⁴",
+      "2⁵",
+      "2⁶",
+      "2⁷"
+    ],
+    "jawaban": "2⁵",
+    "pembahasan": "Berdasarkan sifat eksponen: perkalian menjumlahkan pangkat (2³⁺⁴ = 2⁷) dan pembagian mengurangkan pangkat (2⁷⁻² = 2⁵)."
+  }
+]
